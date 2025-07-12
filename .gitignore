@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# Files do not need to be uploaded
+/build
+/.vscode
