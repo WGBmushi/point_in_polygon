@@ -16,3 +16,7 @@ python3 ../src/plot_points.py
 
 ## Result
 ![point-in-polygon test result](/result/Figure_1.png)
+```bash
+Case 1 finished in 0.31675 ms
+Case 2 finished in 0.298375 ms
+```
